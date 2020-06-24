@@ -1,0 +1,10 @@
+#root tr:nth-child(even) {
+    background-color: #eee;
+  }
+  #root tr:nth-child(odd) {
+    background-color: #fff;
+  }
+  #root th {
+    color: white;
+    background-color: black;
+  }
